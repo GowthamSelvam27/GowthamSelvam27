@@ -1,6 +1,6 @@
 ### Hi there, I'm Gowtham Selvam 👋
 
-- 👀 I’m interested in backend development, cloud computing, and open-source contributions.
+- 👀 I’m interested in Full Stack development, cloud computing, and open-source contributions.
 - 🌱 I’m currently learning advanced Spring concepts, microservices architecture, and exploring new technologies.
 - 💞️ I’m looking to collaborate on innovative Java projects and exciting open-source initiatives.
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/gowtham-s-49b17622a) | [Email](gowthamselvam463.com)
